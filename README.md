@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think I can be a professional gamer**
 
+  <br/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@himanshu_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@himanshu_2004" height="30" width="40" /></a>
@@ -26,6 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehimash&show_icons=true&locale=en" alt="thehimash" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehimash&" alt="thehimash" /></p>
-<br/>
+
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
  
